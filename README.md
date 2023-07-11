@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/luis pineda ugás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis pineda ugás" height="30" width="40" /></a>
 <a href="https://instagram.com/luispineda.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luispineda.03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luis pineda ugás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luis pineda ugás" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcwlvwGxdLZ1WgV_43f6amg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luis pineda ugás" height="30" width="40" /></a>
 <a href="https://discord.gg/luphy05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luphy05" height="30" width="40" /></a>
 </p>
 
